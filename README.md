@@ -18,6 +18,4 @@ This project is a simple and interactive food ordering form designed for users t
 ## Getting Started
 
 1. **Clone the Repository**
-   ```bash
-   git clone <repository-url>
-   cd food-ordering-form
+  https://github.com/Alvineeee/Food-Ordering-Form.git
