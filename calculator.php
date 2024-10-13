@@ -1,6 +1,6 @@
 <?php
 function calculator(){
-    echo "Select Operattion /n";
+    echo "Select Operation /n";
     echo "1. Add/n";
     echo "2. Subtract/n";
     echo "3. Multiply/n";
@@ -23,7 +23,7 @@ function calculator(){
         {
             echo "$num1 / $num2 is ". ($num1 / $num2) . "/n";
         }else{
-            echo "ERROR!: Division by zero \n";
+            echo "ERROR!: Division by zero! \n";
         }
         
     }else{
